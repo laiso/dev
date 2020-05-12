@@ -13,3 +13,18 @@
 /* Stop purging. */
 
 /* Your own custom utilities */
+ol, ul {
+    padding: 1em;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ol {
+    list-style: decimal;
+}
+
+ul {
+    list-style: disc;
+}
